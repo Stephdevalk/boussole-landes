@@ -105,6 +105,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://boussole-landes.fr/carcen-ponson/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://boussole-landes.fr/stephan-de-valk/</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
